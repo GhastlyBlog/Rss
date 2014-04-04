@@ -1,0 +1,9 @@
+\{
+    "name" : "ghastly/rss",
+    "description" : "An rss plugin for Ghastly",
+    "type" : "ghastly-plugin",
+    "license" : "UNLICENSE",
+    "require" : {
+        "ghastly/plugin-installer" : "@dev"
+    }
+}
